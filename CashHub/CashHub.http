@@ -1,0 +1,6 @@
+@CashHub_HostAddress = http://localhost:5288
+
+GET {{CashHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
